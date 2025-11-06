@@ -6,7 +6,6 @@ Find **Blogger templates** that are **free**, **open source**, and **professiona
 ## 📈 GitHub Stats
 
 ![Blogger Template's GitHub stats](https://github-readme-stats.vercel.app/api?username=blogger-templates&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blogger-templates&layout=compact&theme=radical)
 
 ## About
 This repository provides:
