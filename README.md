@@ -3,6 +3,11 @@
 Welcome to the **Blogger Templates** open-source collection!  
 Find **Blogger templates** that are **free**, **open source**, and **professional** — perfect for **AdSense approval** and for building beautiful blogs.
 
+## 📈 GitHub Stats
+
+![Blogger Template's GitHub stats](https://github-readme-stats.vercel.app/api?username=blogger-templates&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blogger-templates&layout=compact&theme=radical)
+
 ## About
 This repository provides:
 - **Free Blogger templates without copyright**
